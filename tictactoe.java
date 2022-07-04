@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author tea
+ * @author nat
  */
 public class tictactoe {
     
